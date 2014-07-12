@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "angular": "~1.x",
-    "g4g-tinymce": "git://github.com/jagged3dge/tinymce.git"
+    "tinymce": "git://github.com/jagged3dge/tinymce.git"
   },
   "devDependencies": {
     "angular-mocks": "~1.x"
